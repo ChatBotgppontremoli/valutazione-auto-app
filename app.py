@@ -1,5 +1,3 @@
-!cp /usr/lib/chromium-browser/chromedriver /usr/bin
-
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
