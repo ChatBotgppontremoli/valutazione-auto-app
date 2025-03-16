@@ -1,4 +1,3 @@
-!apt install chromium-chromedriver
 !cp /usr/lib/chromium-browser/chromedriver /usr/bin
 
 from selenium import webdriver
